@@ -23,3 +23,6 @@ a list of SNPs.
     genome.
 
 5.  Compare resulted parts of genomes to find SNPs.
+
+
+### Execution: python3 contact_map_builder.py readsA.fasta readsB.fasta
