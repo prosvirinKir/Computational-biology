@@ -2,8 +2,8 @@
 
 # Task
 
-Implement algorithms that takes two **FASTA** files (reads) and outputs
-a list of SNPs.
+Implement algorithms that takes two **FASTA** files (reads) and outputs a list of [SNPs](https://en.wikipedia.org/wiki/Single-nucleotide_polymorphism)  
+
 
 # Approach
 
